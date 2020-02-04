@@ -19,9 +19,7 @@ public class Account {
         return name;
     }
 
-    public void setBalance(double balance) {
-        this.balance = balance;
-    }
+    public void setBalance(double balance) {this.balance = balance;}
 
     public void setName(String name) {
         this.name = name;
